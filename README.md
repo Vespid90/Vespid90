@@ -27,7 +27,7 @@ Ma trajectoire unique me permet d'apporter une perspective fraîche et multidime
 ## 📌 Mes projets
 ### Projets front-end
 #### En React
-### 🔹 [Pokédex avec PokéAPI](https://github.com/Vespid90/pokedex) - Déployé sur Vercel via ce [lien](https://pokedex-react-amber-xi.vercel.app/)
+### 🔹 [Pokédex avec PokéAPI](https://github.com/Vespid90/pokedex-react) - Déployé sur Vercel via ce [lien](https://pokedex-react-amber-xi.vercel.app/)
 Un Pokédex interactif permettant de rechercher et filtrer les Pokémon avec des détails enrichis.
 
 
@@ -37,7 +37,7 @@ Un Pokédex interactif permettant de rechercher et filtrer les Pokémon avec des
 Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zones sécurisées et suivre les déplacements en temps réel.
 
 #### En Python:
-### 🔹 [Application de gestion de facture - Fork](https://github.com/Vespid90/COGIP-Project)
+### 🔹 [Application de gestion de facture - Fork](https://github.com/Vespid90/COGIP-Project/tree/main)
 Un fork d'un projet où j'ai contribué à la création d'une database et adapté toute la partie back-end, notamment les routes et la logique fonctionnelle
 
 ## 🎯 Objectifs
