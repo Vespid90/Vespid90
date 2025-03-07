@@ -37,7 +37,7 @@ Un Pokédex interactif permettant de rechercher et filtrer les Pokémon avec des
 Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zones sécurisées et suivre les déplacements en temps réel.
 
 #### En Python:
-### 🔹 [Application de gestion de facture - Fork](https://github.com/Vespid90/COGIP-Project/tree/main) (Work in progress)
+### 🔹 [Application de gestion de factures - Fork](https://github.com/Vespid90/COGIP-Project/tree/main) (Work in progress)
 Un fork d'un projet où j'ai contribué à la création d'une database et conçu la partie back-end, notamment les routes de l'API et la logique fonctionnelle
 
 ## 🎯 Objectifs
