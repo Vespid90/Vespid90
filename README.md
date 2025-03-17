@@ -38,7 +38,7 @@ Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zone
 
 #### En Python:
 ### 🔹 [Application de gestion de factures - Fork](https://github.com/Vespid90/COGIP-Project/tree/main) (Work in progress)
-Un fork d'un projet où j'ai contribué à la création d'une database et conçu la partie back-end, notamment les routes de l'API et la logique fonctionnelle
+Un fork d'un projet où j'ai contribué à la création d'une database et conçu la partie back-end, notamment les routes de l'API et la logique fonctionnelle. C'est avec ce projet que j'ai commencé à apprender le language Python ! Nous nous sommes lancé un challenge de taille ; créer une web app avec de nouveaux languages et frameworks, sans connaissance au préalable.
 
 ## 🎯 Objectifs
 
