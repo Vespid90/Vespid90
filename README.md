@@ -55,8 +55,7 @@ C'est avec ce projet que j'ai commencé à apprender le language Python ! Nous n
 
 ### 📈 Statistiques GitHub :
 ![Les stats de Vespid90](https://github-readme-stats.vercel.app/api?username=Vespid90&show_icons=true&theme=radical)
-![Les langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Vespid90&layout=compact&theme=radical)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vespid90&layout=compact&theme=radical&cache_seconds=3600)
+![Les Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Vespid90&layout=compact&theme=radical&cache_seconds=3600)
 
 ---
 
