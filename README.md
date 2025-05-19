@@ -9,7 +9,7 @@ Ma trajectoire unique me permet d'apporter une perspective fraîche et multidime
 ## 💡 Ce que je fais
 
 - 🌐 **Front-end** : `HTML`, `CSS`, `SCSS`, `JavaScript`, `Bootstrap`
-- ⚙️ **Back-end** : `Python`, `FastAPI`, `Node.js`, `Express`, `Axios`, `Odoo`
+- ⚙️ **Back-end** : `Node.js`, `Express`, `Axios`, `Python`, `FastAPI`, `Flask`, `Odoo`
 - 🗄️ **Base de données** : `MySQL`, `MariaDB`, `PostgreSQL`
 - 🔧 **Outils & Technologies** : `Git/GitHub`, `MAMP`, `Postman`, `VSCode`, `JetBrains IDEs`
 - 🎨 **Design & Optimisation** : `SASS`, `BEM`, `Responsive Design`
