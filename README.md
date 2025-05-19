@@ -16,11 +16,13 @@ Ma trajectoire unique me permet d'apporter une perspective fraîche et multidime
 
 ### 🚀 Tech Stack & Outils :
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-%234981B5.svg?style=for-the-badge&logo=odoo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-%234981B5.svg?style=for-the-badge&logo=odoo&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%234B92DB.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -54,7 +56,7 @@ C'est avec ce projet que j'ai commencé à apprender le language Python ! Nous n
 
 
 ### 📈 Statistiques GitHub :
-![Les stats de Vespid90](https://github-readme-stats.vercel.app/api?username=Vespid90&show_icons=true&theme=radical)
+![Les stats de Vespid90](https://github-readme-stats.vercel.app/api?username=Vespid90&show_icons=true&theme=radical)  
 ![Les Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Vespid90&layout=compact&theme=radical&cache_seconds=3600)
 
 ---
