@@ -6,6 +6,8 @@ Passionné par la technologie et la résolution de problèmes, j'ai entrepris un
 
 Ma trajectoire unique me permet d'apporter une perspective fraîche et multidimensionnelle au développement logiciel, où chaque défi est une opportunité d'apprentissage et de croissance.
 
+📄 **Mon CV** : Voici un [lien vers mon CV](https://drive.google.com/file/d/13jq9qX9pLFVY2t7pVe3uWf95E6ziPnZV/view?usp=sharing).
+
 ## 💡 Ce que je fais
 
 - 🌐 **Front-end** : `HTML`, `CSS`, `SCSS`, `JavaScript`, `Bootstrap`
@@ -65,6 +67,7 @@ C'est avec ce projet que j'ai commencé à apprender le language Python ! Nous n
 
 📧 **Email** : farid.elmam@gmail.com  
 💼 **LinkedIn** : https://www.linkedin.com/in/farid-elmam/  
+📄 **Mon CV** : Voici un [lien vers mon CV](https://drive.google.com/file/d/13jq9qX9pLFVY2t7pVe3uWf95E6ziPnZV/view?usp=sharing).
 
 ---
 
