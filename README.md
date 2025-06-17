@@ -50,20 +50,6 @@ L'un de mes premier module sur Odoo ! Ce projet a été réalisé dans le cadre 
 
 Le but de cet exercice était de concevoir un module Odoo complet de A à Z, sans recourir à l'héritage, afin de bien maîtriser les bases du développement de modules personnalisés dans l'environnement Odoo.
 
-L'accent a été mis sur :
-
-- La **création de nouveaux modèles**,
-- La **définition de vues** (form, list, kanban, calendar, ..) via des fichiers XML,
-- L’utilisation correcte des **relations entre modèles** (`Many2one`, `One2many`, `Many2many`),
-- L’organisation propre et modulaire du code (Python, XML, menus, sécurité, etc.),
-- Et l’apprentissage du **cycle de vie complet** d’un module Odoo : installation, chargement de données, sécurisation, affichage dans l’interface.
-
-Le projet a été conçu en équipe dans un environnement collaboratif, ce qui nous a permis de pratiquer :
-
-- Le **versioning Git/GitHub** en groupe,
-- Le **partage des responsabilités** (modèles, vues, sécurité…),
-- La **communication technique et organisationnelle** autour d’un objectif commun.
-
 ## 🎯 Objectifs
 
 - :snake: Développer une expertise en `Python` et ses frameworks (`Django`, `Flask`, `FastAPI`, `Odoo`, (...).
