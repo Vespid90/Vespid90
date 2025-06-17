@@ -42,11 +42,27 @@ Un Pokédex interactif permettant de rechercher et filtrer les Pokémon avec des
 ### 🔹 [Application de Géofencing](https://github.com/Vespid90/Hackathon-orange) - Déployé sur Vercel via ce [lien](https://hackathon-orange.vercel.app/)
 Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zones sécurisées et suivre les déplacements en temps réel.
 
-#### En Python/Angular:
-### 🔹 [Application de gestion de factures - Fork](https://github.com/Vespid90/COGIP-Project/tree/main) (en pause)
-Un fork d'un projet où j'ai contribué à la création d'une database et conçu la partie back-end, notamment les routes de l'API et la logique fonctionnelle. 
 
-C'est avec ce projet que j'ai commencé à apprender le language Python ! Nous nous sommes lancé un challenge de taille ; créer une web app avec de nouveaux languages et frameworks, sans connaissance au préalable.
+#### En Python/Odoo:
+### 🔹 [Module de gestion de salle de sport](https://github.com/Vespid90/my_basic_fritt/tree/main)
+
+L'un de mes premier module sur Odoo ! Ce projet a été réalisé dans le cadre de ma formation en développement Odoo chez Technocité, en collaboration avec d'autres apprenants.
+
+Le but de cet exercice était de concevoir un module Odoo complet de A à Z, sans recourir à l'héritage, afin de bien maîtriser les bases du développement de modules personnalisés dans l'environnement Odoo.
+
+L'accent a été mis sur :
+
+- La **création de nouveaux modèles**,
+- La **définition de vues** (form, list, kanban, calendar, ..) via des fichiers XML,
+- L’utilisation correcte des **relations entre modèles** (`Many2one`, `One2many`, `Many2many`),
+- L’organisation propre et modulaire du code (Python, XML, menus, sécurité, etc.),
+- Et l’apprentissage du **cycle de vie complet** d’un module Odoo : installation, chargement de données, sécurisation, affichage dans l’interface.
+
+Le projet a été conçu en équipe dans un environnement collaboratif, ce qui nous a permis de pratiquer :
+
+- Le **versioning Git/GitHub** en groupe,
+- Le **partage des responsabilités** (modèles, vues, sécurité…),
+- La **communication technique et organisationnelle** autour d’un objectif commun.
 
 ## 🎯 Objectifs
 
