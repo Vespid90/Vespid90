@@ -6,7 +6,8 @@ Passionné par la technologie et la résolution de problèmes, j'ai entrepris un
 
 Ma trajectoire unique me permet d'apporter une perspective fraîche et multidimensionnelle au développement logiciel, où chaque défi est une opportunité d'apprentissage et de croissance.
 
-📄 **Mon CV** : <a href="https://drive.google.com/file/d/13jq9qX9pLFVY2t7pVe3uWf95E6ziPnZV/view?usp=sharing" target="_blank" rel="noopener noreferrer">Lien vers mon CV.</a>
+📄 **Mon CV** : <a href="https://docs.google.com/document/d/1zNaAbG25f8aSMF4PvneAbFxba4GQG7Gk_XlpDm7y24A/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lien vers mon CV.</a>
+
 
 ## 💡 Ce que je fais
 
@@ -15,6 +16,7 @@ Ma trajectoire unique me permet d'apporter une perspective fraîche et multidime
 - 🗄️ **Base de données** : `MySQL`, `MariaDB`, `PostgreSQL`
 - 🔧 **Outils & Technologies** : `Git/GitHub`, `MAMP`, `Postman`, `VSCode`, `JetBrains IDEs`
 - 🎨 **Design & Optimisation** : `SASS`, `BEM`, `Responsive Design`
+
 
 ### 🚀 Tech Stack & Outils :
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,6 +51,7 @@ Comme pour le gestionnaire d'une salle de sport, ce projet à pour but de concev
 ### 🔹 [Application de Géofencing](https://github.com/Vespid90/Hackathon-orange) - Déployé sur Vercel via ce [lien](https://hackathon-orange.vercel.app/)
 Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zones sécurisées et suivre les déplacements en temps réel.
 
+
 ## 🎯 Objectifs
 
 - :snake: Développer une expertise en `Python` et ses frameworks (`Django`, `Flask`, `FastAPI`, `Odoo`, (...).
@@ -62,7 +65,6 @@ Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zone
 ![Les stats de Vespid90](https://github-readme-stats.vercel.app/api?username=Vespid90&show_icons=true&theme=radical)  
 ![Les Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Vespid90&layout=compact&theme=radical&cache_seconds=3600)
 
----
 
 ## 📫 Me contacter
 
