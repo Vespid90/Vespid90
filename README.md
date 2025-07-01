@@ -31,24 +31,20 @@ Ma trajectoire unique me permet d'apporter une perspective fraîche et multidime
 
 
 ## 📌 Mes projets
-### Projets front-end
-#### En React
-### 🔹 [Pokédex avec PokéAPI](https://github.com/Vespid90/pokedex-react) - Déployé sur Vercel via ce [lien](https://pokedex-react-amber-xi.vercel.app/)
-Un Pokédex interactif permettant de rechercher et filtrer les Pokémon avec des détails enrichis.
-
-
 ### Projets back-end
-#### En JavaScript:
-### 🔹 [Application de Géofencing](https://github.com/Vespid90/Hackathon-orange) - Déployé sur Vercel via ce [lien](https://hackathon-orange.vercel.app/)
-Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zones sécurisées et suivre les déplacements en temps réel.
-
-
 #### En Python/Odoo:
 ### 🔹 [Module de gestion de salle de sport](https://github.com/Vespid90/my_basic_fritt/tree/main)
 
 L'un de mes premier module sur Odoo ! Ce projet a été réalisé dans le cadre de ma formation en développement Odoo chez Technocité, en collaboration avec d'autres apprenants.
 
 Le but de cet exercice était de concevoir un module Odoo complet de A à Z, sans recourir à l'héritage, afin de bien maîtriser les bases du développement de modules personnalisés dans l'environnement Odoo.
+
+### 🔹 [Module de gestion de d'une librarie](https://github.com/Vespid90/my_basic_fritt/tree/main)
+
+
+#### En JavaScript:
+### 🔹 [Application de Géofencing](https://github.com/Vespid90/Hackathon-orange) - Déployé sur Vercel via ce [lien](https://hackathon-orange.vercel.app/)
+Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zones sécurisées et suivre les déplacements en temps réel.
 
 ## 🎯 Objectifs
 
