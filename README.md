@@ -39,8 +39,11 @@ L'un de mes premier module sur Odoo ! Ce projet a été réalisé dans le cadre 
 
 Le but de cet exercice était de concevoir un module Odoo complet de A à Z, sans recourir à l'héritage, afin de bien maîtriser les bases du développement de modules personnalisés dans l'environnement Odoo.
 
-### 🔹 [Module de gestion de d'une librarie](https://github.com/Vespid90/my_basic_fritt/tree/main)
+### 🔹 [Module de gestion de d'une librarie](https://github.com/Vespid90/Library_management/tree/main)
 
+Ce projet sert à mettre en pratique toutes les notions théoriques vue au cour de ma formation Odoo.
+
+Comme pour le gestionnaire d'une salle de sport, ce projet à pour but de concevoir un module Odoo complet de A à Z, sans recourir à l'héritage.
 
 #### En JavaScript:
 ### 🔹 [Application de Géofencing](https://github.com/Vespid90/Hackathon-orange) - Déployé sur Vercel via ce [lien](https://hackathon-orange.vercel.app/)
