@@ -6,7 +6,7 @@ Passionné par la technologie et la résolution de problèmes, j'ai entrepris un
 
 Ma trajectoire unique me permet d'apporter une perspective fraîche et multidimensionnelle au développement logiciel, où chaque défi est une opportunité d'apprentissage et de croissance.
 
-📄 **Mon CV** : <a href="https://docs.google.com/document/d/1zNaAbG25f8aSMF4PvneAbFxba4GQG7Gk_XlpDm7y24A/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lien vers mon CV.</a>
+📄 **Mon CV** : <a href="https://drive.google.com/file/d/16-p4cOTjrPQBoGBQ0lPSSsE5I-tQEqF1/view?usp=sharing" target="_blank" rel="noopener noreferrer">Lien vers mon CV.</a>
 
 
 ## 💡 Ce que je fais
