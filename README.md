@@ -45,7 +45,7 @@ Ce projet sert à mettre en pratique toutes les notions théoriques vue au cour 
 
 Comme pour le gestionnaire d'une salle de sport, ce projet à pour but de concevoir un module Odoo complet de A à Z, sans recourir à l'héritage.
 
-### 🔹 [Module de gestion d'un concessionnaire automobile](https://github.com/Vespid90/bestcar_management/tree/dev)
+### 🔹 [Module de gestion d'un concessionnaire automobile](https://github.com/Vespid90/bestcar_management/tree/main)
 
 Après six mois de formation intensive en développement Python & Odoo, nous avons, avec deux de mes collègues, développé un module complet de gestion pour un concessionnaire automobile.
 
