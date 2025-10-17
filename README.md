@@ -2,20 +2,19 @@
 
 ## 🚀 Développeur en devenir
 
-Passionné par la technologie et la résolution de problèmes, j'ai entrepris une reconversion professionnelle dans le développement. Actuellement en formation pour devenir Odoo developer, mon objectif est clair : transformer ma passion en une carrière épanouissante.
+Passionné par la technologie et la résolution de problèmes, j'ai entrepris une reconversion professionnelle dans le développement. Actuellement en recherche de missions et/ou d'un contrat en tant qu'Odoo developer, mon objectif est clair : transformer ma passion en une carrière épanouissante.
 
 Ma trajectoire unique me permet d'apporter une perspective fraîche et multidimensionnelle au développement logiciel, où chaque défi est une opportunité d'apprentissage et de croissance.
 
-📄 **Mon CV** : <a href="https://drive.google.com/file/d/16-p4cOTjrPQBoGBQ0lPSSsE5I-tQEqF1/view?usp=sharing" target="_blank" rel="noopener noreferrer">Lien vers mon CV.</a>
+📄 **Mon CV** : <a href="https://drive.google.com/file/d/1L2GNR-Ma5ItBXRZZBbyRh3I_ybZXBdt1/view?usp=sharing" target="_blank" rel="noopener noreferrer">Lien vers mon CV.</a>
 
 
 ## 💡 Ce que je fais
 
-- 🌐 **Front-end** : `HTML`, `CSS`, `SCSS`, `JavaScript`, `Bootstrap`
-- ⚙️ **Back-end** : `Node.js`, `Express`, `Axios`, `Python`, `FastAPI`, `Flask`, `Odoo`
+- 🌐 **Front-end** : `HTML`, `CSS`, `JavaScript`, `Bootstrap`
+- ⚙️ **Back-end** : `Node.js`, `Express`, `Axios`, `Python`, `FastAPI`, `Odoo`
 - 🗄️ **Base de données** : `MySQL`, `MariaDB`, `PostgreSQL`
 - 🔧 **Outils & Technologies** : `Git/GitHub`, `MAMP`, `Postman`, `VSCode`, `JetBrains IDEs`
-- 🎨 **Design & Optimisation** : `SASS`, `BEM`, `Responsive Design`
 
 
 ### 🚀 Tech Stack & Outils :
@@ -25,7 +24,6 @@ Ma trajectoire unique me permet d'apporter une perspective fraîche et multidime
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-%234981B5.svg?style=for-the-badge&logo=odoo&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%234B92DB.svg?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -47,6 +45,18 @@ Ce projet sert à mettre en pratique toutes les notions théoriques vue au cour 
 
 Comme pour le gestionnaire d'une salle de sport, ce projet à pour but de concevoir un module Odoo complet de A à Z, sans recourir à l'héritage.
 
+### 🔹 [Module de gestion d'un concessionnaire automobile](https://github.com/Vespid90/bestcar_management/tree/dev)
+
+Après six mois de formation intensive en développement Python & Odoo, nous avons, avec deux de mes collègues, développé un module complet de gestion pour un concessionnaire automobile.
+
+Ce projet couvre l’ensemble du cycle de vie des véhicules d’occasion :
+
+- Achat et reprise des véhicules
+- Reconditionnement et suivi des interventions techniques
+- Vente des véhicules reconditionnés
+
+Ce projet illustre notre capacité à concevoir une application métier complète, en respectant la structure et les bonnes pratiques du framework Odoo.
+
 #### En JavaScript:
 ### 🔹 [Application de Géofencing](https://github.com/Vespid90/Hackathon-orange) - Déployé sur Vercel via ce [lien](https://hackathon-orange.vercel.app/)
 Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zones sécurisées et suivre les déplacements en temps réel.
@@ -54,9 +64,9 @@ Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zone
 
 ## 🎯 Objectifs
 
-- :snake: Développer une expertise en `Python` et ses frameworks (`Django`, `Flask`, `FastAPI`, `Odoo`, (...).
-- :robot: Par la suite, je voudrais explorer les possibilités offertes par `Python` dans des domaines avancés tels que Odoo dans un premier temps, l'intelligence artificielle et la data science par la suite.
-- :rocket: Approfondir mes compétences en front-end avec `Vue.js` et `Angular` pour devenir un développeur full-stack dans un deuxième temps.
+- :snake: Développer une expertise en `Python` et avec le framework `Odoo`.
+- :robot: Par la suite, je voudrais explorer les possibilités offertes par `Python` dans des domaines avancés tels que l'intelligence artificielle et la data science par la suite.
+- :rocket: Approfondir mes compétences en front-end avec `Vue.js` et `Angular` pour devenir un développeur full-stack.
 - :construction:  Renforcer mes compétences en architecture logicielle et en adoptant des meilleures pratiques de développement.
 - 🎯 Rejoindre une entreprise innovante pour un stage et enrichir mon expérience
 
@@ -70,7 +80,7 @@ Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zone
 
 📧 **Email** : farid.elmam@gmail.com  
 💼 **LinkedIn** : https://www.linkedin.com/in/farid-elmam/  
-📄 **Mon CV** : Voici un [lien vers mon CV](https://drive.google.com/file/d/13jq9qX9pLFVY2t7pVe3uWf95E6ziPnZV/view?usp=sharing).
+📄 **Mon CV** : Voici un [lien vers mon CV](https://drive.google.com/file/d/1L2GNR-Ma5ItBXRZZBbyRh3I_ybZXBdt1/view?usp=sharing).
 
 ---
 
