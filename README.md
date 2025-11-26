@@ -65,7 +65,7 @@ Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zone
 ## 🎯 Objectifs
 
 - :snake: Développer une expertise en `Python` et avec le framework `Odoo`.
-- :robot: Par la suite, je voudrais explorer les possibilités offertes par `Python` dans des domaines avancés tels que l'intelligence artificielle et la data science par la suite.
+- :robot: Par la suite, je voudrais explorer les possibilités offertes par `Python` dans des domaines avancés tels que l'intelligence artificielle et la data science.
 - :rocket: Approfondir mes compétences en front-end avec `Vue.js` et `Angular` pour devenir un développeur full-stack.
 - :construction:  Renforcer mes compétences en architecture logicielle et en adoptant des meilleures pratiques de développement.
 - 🎯 Rejoindre une entreprise innovante pour un stage et enrichir mon expérience
