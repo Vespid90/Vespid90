@@ -6,7 +6,7 @@ Passionné par la technologie et la résolution de problèmes, j'ai entrepris un
 
 Ma trajectoire unique me permet d'apporter une perspective fraîche et multidimensionnelle au développement logiciel, où chaque défi est une opportunité d'apprentissage et de croissance.
 
-📄 **Mon CV** : <a href="https://drive.google.com/file/d/1L2GNR-Ma5ItBXRZZBbyRh3I_ybZXBdt1/view?usp=sharing" target="_blank" rel="noopener noreferrer">Lien vers mon CV.</a>
+📄 **Mon CV** : <a href="https://drive.google.com/file/d/1RuDBLWBuai_xsXZlqOzvtbd9t02semsC/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Lien vers mon CV.</a>
 
 
 ## 💡 Ce que je fais
@@ -80,7 +80,7 @@ Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zone
 
 📧 **Email** : farid.elmam@gmail.com  
 💼 **LinkedIn** : https://www.linkedin.com/in/farid-elmam/  
-📄 **Mon CV** : Voici un [lien vers mon CV](https://drive.google.com/file/d/1L2GNR-Ma5ItBXRZZBbyRh3I_ybZXBdt1/view?usp=sharing).
+📄 **Mon CV** : Voici un [lien vers mon CV](https://drive.google.com/file/d/1RuDBLWBuai_xsXZlqOzvtbd9t02semsC/view?usp=drive_link).
 
 ---
 
