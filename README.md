@@ -6,15 +6,16 @@ Passionné par la technologie et la résolution de problèmes, j'ai entrepris un
 
 Ma trajectoire unique me permet d'apporter une perspective fraîche et multidimensionnelle au développement logiciel, où chaque défi est une opportunité d'apprentissage et de croissance.
 
-📄 **Mon CV** : <a href="https://drive.google.com/file/d/1RuDBLWBuai_xsXZlqOzvtbd9t02semsC/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Lien vers mon CV.</a>
+📄 **Mon CV** : <a href="https://drive.google.com/file/d/1ENmp4bAxJ7JEl5B2U0Drvh0O_0GxVo-K/view?usp=sharing" target="_blank" rel="noopener noreferrer">Lien vers mon CV.</a>
+
 
 
 ## 💡 Ce que je fais
 
-- 🌐 **Front-end** : `HTML`, `CSS`, `JavaScript`, `Bootstrap`
-- ⚙️ **Back-end** : `Node.js`, `Express`, `Axios`, `Python`, `FastAPI`, `Odoo`
+- 🌐 **Front-end** : `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `XML`, `Qweb`
+- ⚙️ **Back-end** : `Node.js`, `Express`, `Axios`, `JSON`, `Python`, `FastAPI`, `Odoo`
 - 🗄️ **Base de données** : `MySQL`, `MariaDB`, `PostgreSQL`
-- 🔧 **Outils & Technologies** : `Git/GitHub`, `MAMP`, `Postman`, `VSCode`, `JetBrains IDEs`
+- 🔧 **Outils & Technologies** : `Git/GitHub`, `MAMP`, `Postman`, `VSCode`, `JetBrains IDEs`, `Linux`
 
 
 ### 🚀 Tech Stack & Outils :
@@ -80,7 +81,7 @@ Intégration des `API Orange` dans le cadre d'un Hackathon, pour créer des zone
 
 📧 **Email** : farid.elmam@gmail.com  
 💼 **LinkedIn** : https://www.linkedin.com/in/farid-elmam/  
-📄 **Mon CV** : Voici un [lien vers mon CV](https://drive.google.com/file/d/1RuDBLWBuai_xsXZlqOzvtbd9t02semsC/view?usp=drive_link).
+📄 **Mon CV** : Voici un [lien vers mon CV](https://drive.google.com/file/d/1ENmp4bAxJ7JEl5B2U0Drvh0O_0GxVo-K/view?usp=sharing).
 
 ---
 
